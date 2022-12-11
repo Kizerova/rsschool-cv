@@ -2,7 +2,7 @@
 ### Kizerova Tamila ![Tamila](https://github.com/Kizerova/rsschool-cv/blob/gh-pages/user_photo.jpg)
 ********
 ##### Contacts
-* Phone:+38 066 591 2274  
+* Phone:+38 (066) 591 2274  
 * E-mail:sulim.tamila@gmail.com
 * Telegram:@tamila_kizerova
 * Discord:Kizerova Tamila (@Kizerova)
