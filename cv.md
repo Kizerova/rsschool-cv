@@ -1,5 +1,5 @@
 ********
-### Kizerova Tamila ![Tamila](/rsschool-cv/user_photo.jpg)
+### Kizerova Tamila ![Tamila](https://github.com/Kizerova/rsschool-cv/blob/gh-pages/user_photo.jpg)
 ********
 ##### Contacts
 * Phone:+38 066 591 2274  
